@@ -132,6 +132,7 @@ p {
 }
 /* BENEFIT SECTION END */
 
+/* FOOTER SECTION START */
 .footer {
     padding: 30px;
     clear: both;
@@ -139,6 +140,8 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
+
+/* FOOTER SECTION END */
