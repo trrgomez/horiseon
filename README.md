@@ -5,6 +5,8 @@
 
  The goal for this project is to make a website accessible for a marketing agency in order to optimize their site for search engines.
 
+ [Website Link](https://trrgomez.github.io/horiseon/)
+
 #### Completed task for this project that made it more accessible:
   * [x] Add semantic HTML elements
   * [x] Add alt to image elements
