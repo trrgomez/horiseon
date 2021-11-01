@@ -1,10 +1,11 @@
 # Horiseon
 
 ## Description
-___
- An important concept in web development is to make a website accessible for people with disabilities. Web accessiblity uses assitive technologies that create high-quality websites and web tools that will ultimately work for all people. In addition, another important concept is learning how to refactor code websites to meet this criteria.
 
- The goal for this project is to make a website accessible for a marketing agency in order to optimize their site for search engines.
+A website that offers search engine optimization, social media marketing and online reputation management.
+An important concept in web development is to make a website accessible for people with disabilities. Web accessiblity uses assitive technologies that create high-quality websites and web tools that will ultimately work for all people. In addition, another important concept is learning how to refactor code in websites to meet this criteria.
+
+The goal for this project was to make a website more accessible in order to improve search engine optimization.
 
  [Website Link](https://trrgomez.github.io/horiseon/)
 
